@@ -15,7 +15,7 @@ echo "  ✓ Neovim -> ~/.config/nvim"
 ln -sfn "$DOTFILES_DIR/kitty" "$HOME/.config/kitty"
 echo "  ✓ Kitty -> ~/.config/kitty"
 
-ln -sfn "$DOTFILES_DIR/tmux/.tmux.conf" "$HOME/.tmux.conf"
+ln -sfn "$DOTFILES_DIR/tmux/tmux.conf" "$HOME/.tmux.conf"
 echo "  ✓ Tmux -> ~/.tmux.conf"
 
 echo ""

@@ -1,6 +1,4 @@
-# Dotfiles de Urzuaf 🚀
-
-Mi entorno de desarrollo en terminal optimizado para máxima velocidad y bajo consumo de recursos (Neovim + Tmux + Kitty).
+# Dotfiles
 
 ## Contenido
 
@@ -10,7 +8,7 @@ Mi entorno de desarrollo en terminal optimizado para máxima velocidad y bajo co
 
 ---
 
-## 💻 Instalación en una máquina nueva (Mac)
+## 💻 Instalación en Mac
 
 1. **Instalar herramientas base con Homebrew:**
    ```bash
